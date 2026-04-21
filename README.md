@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 💰 MERN Expense Tracker
 
 This is a full-stack Expense Tracker web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The application helps users efficiently manage their personal finances by tracking income and expenses in real-time.
@@ -33,3 +34,7 @@ The project demonstrates full-stack development skills, API design, authenticati
 
 👨‍💻 Author:
 MAYANK
+=======
+# MERN-STACK-EXPENSES-TRACKER
+A full-stack MERN Expense Tracker application that allows users to manage income and expenses, track financial activity, and visualize spending patterns with a clean and responsive UI
+>>>>>>> c17f67b8e29ac2f6eb037e2ce714476cd310412b
